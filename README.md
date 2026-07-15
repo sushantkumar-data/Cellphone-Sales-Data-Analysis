@@ -1,4 +1,4 @@
-# Cellphone-Sales-Data-Analysis
+# Cellphone Sales Data Analysis
 
 ## Project Overview
 
